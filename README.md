@@ -1,5 +1,5 @@
 ## 🚀 Join to the moon road 🚀
-- I created a verified legal crypto token ⚡ [LAZY](https://bscscan.com/token/0xd913937cd3a7b3d23c6da56dbb3b57c9fe4ff733) ⚡
+- I created a verified legal crypto token ⚡ [LAZY](https://bscscan.com/token/0xd913937cd3a7b3d23c6da56dbb3b57c9fe4ff733) ⚡ to help my [BlackHat Arsenal tool](https://github.com/storenth/lazyrecon)
 - You can [swap](https://pancakeswap.finance/swap) it as `BNB`/`LAZY` to receive all its features
 - Track the token activity on [poocoin](https://poocoin.app/tokens/0xd913937cd3a7b3d23c6da56dbb3b57c9fe4ff733)
 - 💬 Join official LAZY's [telegram](https://t.me/lazyrecontoken)
