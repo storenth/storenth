@@ -1,6 +1,5 @@
-## 🚀 Join to the moon road 🚀
+## 1A3Y startup
 - I created a verified legal crypto token ⚡ [1A3Y](https://bscscan.com/token/0xb9a36d01577d82909ca01e20db58293a6baa5ddd) ⚡ to help startup my [BlackHat Arsenal tool](https://github.com/storenth/lazyrecon)
-- You can [swap](https://pancakeswap.finance/swap) token as `BNB`/`1A3Y` to receive all its features and participate in this project as a holder.
 - Track the token activity on [poocoin](https://poocoin.app/tokens/0xb9a36d01577d82909ca01e20db58293a6baa5ddd)
 - 💬 Join official 1A3Y's [telegram](https://t.me/lazyrecontoken)
 
