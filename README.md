@@ -1,7 +1,7 @@
 ## 1A3Y startup
-- I created a verified legal crypto token ⚡ [1A3Y](https://bscscan.com/token/0xb9a36d01577d82909ca01e20db58293a6baa5ddd) ⚡ to help startup my [BlackHat Arsenal tool](https://github.com/storenth/lazyrecon)
-- Track the token activity on [poocoin](https://poocoin.app/tokens/0xb9a36d01577d82909ca01e20db58293a6baa5ddd)
-- 💬 Join official 1A3Y's [telegram](https://t.me/lazyrecontoken)
+- I am 1a3y Red Team founder
+- [1a3y.sh](https://1a3y.sh)
+- Join a brand new cyber security company [discord](https://discord.gg/fR2QVrWBTq) 💬 [telegram](https://t.me/+uS3OiUtJLShjYzM6)
 
 <!--
 **storenth/storenth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
