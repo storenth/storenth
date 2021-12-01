@@ -1,6 +1,6 @@
 ## 1A3Y startup
-- I am 1a3y Red Team founder
-- [1a3y.sh](https://1a3y.sh)
+- I am `1a3y` Red Team founder
+- Schedule a free security scan at [1a3y.sh](https://1a3y.sh)
 - Join a brand new cyber security company [discord](https://discord.gg/fR2QVrWBTq) 💬 [telegram](https://t.me/+uS3OiUtJLShjYzM6)
 
 <!--
