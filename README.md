@@ -1,7 +1,6 @@
 ## 1A3Y startup
-- I am `1a3y` Red Team founder
-- Schedule a free security scan at [1a3y.sh](https://1a3y.sh)
-- Join a brand new cyber security company [discord](https://discord.gg/fR2QVrWBTq) 💬 [telegram](https://t.me/+uS3OiUtJLShjYzM6)
+- I am [1a3y.sh](https://1a3y.sh) Red Team founder and [BlackHat USA 2021](https://www.blackhat.com/us-21/arsenal/schedule/presenters.html#kirill-zhdanov-42516) speaker
+- Join my brand new cyber security company at [discord](https://discord.gg/fR2QVrWBTq) 💬 [telegram](https://t.me/+uS3OiUtJLShjYzM6)
 
 <!--
 **storenth/storenth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
