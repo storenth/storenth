@@ -1,6 +1,6 @@
 #### I am 
 - Python, Bash, enthusiast
-- Google certified
+- Google [certified](https://www.coursera.org/account/accomplishments/verify/ME93B3VZX5B5)
 - [1a3y.sh](https://1a3y.sh) Red Team founder and [BlackHat USA 2021](https://www.blackhat.com/us-21/arsenal/schedule/presenters.html#kirill-zhdanov-42516) speaker
 - Join my brand new cyber security company at [discord](https://discord.gg/fR2QVrWBTq) ﹠ [telegram](https://t.me/+uS3OiUtJLShjYzM6)
 
